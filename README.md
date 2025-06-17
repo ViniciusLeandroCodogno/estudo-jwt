@@ -1,2 +1,3 @@
-# Projeto básico JWT com FAST API
-Projeto básico para aprender a fazer uma autenticação JWT com: FAST API, Mongo DB, Bcrypt, Python-Jose e Pydantic.
+# Autenticação JWT com FastAPI
+Projeto básico para aprender a implementar autenticação com JWT (JSON Web Tokens) utilizando: FastAPI, MongoDB, Bcrypt, Python-Jose, Pydantic.
+
